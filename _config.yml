@@ -1,0 +1,28 @@
+name: yodd
+favicon: null
+layout_spectrum: 0.40112521266564727
+typography_spectrum: 0.3957458510994911
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2429518175777048
+  lightness: 0.5052987560629845
+  saturation: 0.5320781718473881
+  rhythmicContrast: 0.4327730732038617
+purpose: []
